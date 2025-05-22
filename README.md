@@ -1,4 +1,4 @@
-<img width="1280" alt="Screen Shot 1947-03-01 at 20 19 59" src="https://github.com/user-attachments/assets/cf105c47-b4f5-4484-a55b-516a59b85d7e" /><img width="1280" alt="Screen Shot 1947-03-01 at 20 46 57" src="https://github.com/user-attachments/assets/8e97c9b3-ae7c-45e2-9bf8-556dcc6a9504" /><img width="1280" alt="Screen Shot 1947-03-01 at 20 18 11" src="https://github.com/user-attachments/assets/fe9d920c-be01-4b11-9ce4-987b8cfc6468" /># Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
+# Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
 ### NAME: Vikamuhan reddy
 ### REG NO: 212223240181
 
@@ -29,53 +29,43 @@ Click the gear icon in the top-right corner of the screen and select Setup to ac
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 18 11" src="https://github.com/user-attachments/assets/d6578ca1-c080-401e-940b-a61ca4b14af1" />
 
 
-### Step 3: Navigate to App Manager
-In the left-hand sidebar, expand Platform Tools, then go to Apps and select App Manager to manage Lightning Apps.
+### Step 3: Navigate to App Manager and  Click “New Lightning App
+In the left-hand sidebar, expand Platform Tools, then go to Apps and select App Manager to manage Lightning Apps.Click the New Lightning App button at the top-right to start creating a new custom Lightning application.
 
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 18 18" src="https://github.com/user-attachments/assets/038e356d-5337-46c1-b305-1df6a8054e00" />
 
 
-### Step 4: Click “New Lightning App”
-Click the New Lightning App button at the top-right to start creating a new custom Lightning application.
 
-<img width="1280" alt="Screen Shot 1947-03-01 at 20 34 42" src="https://github.com/user-attachments/assets/513eaca0-acc0-47ca-9256-a04fbec64a1a" />
-
-
-### Step 5: 
+### Step 4: 
 After Next, define the fields for the custom app.
 -	App Label: Search Service.
 -	App Name: Search Service.
 -	Description: Search Service is one app where we manage all the business data and catalogues.
 -	Logo : Before inserting an image for the logo you need to use the following procedure to add an image to the image gallery.
--	
-
-
+  
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 19 59" src="https://github.com/user-attachments/assets/73830008-3ee1-4d82-b702-9f4efba70f8c" />
 
-
-
-
  
-### Step 6: Select Console Option
+### Step 5: Select Console Option
 Choose Console as the app type to enable a tab-based, workspace-style interface for users.
 
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 20 10" src="https://github.com/user-attachments/assets/7d3ac3eb-7415-491d-a8a3-4adea7819702" />
 
 
-### Step 7: Select a utility item
+### Step 6: Select a utility item
 Add relevant utility items like Notes, History, or Recent Items to enhance app usability and productivity.
 
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 20 24" src="https://github.com/user-attachments/assets/8eb77ad2-fef2-428d-8886-d92ce5e64dd2" />
 
 
-### Step 8: Select any of the user profiles. Then Click Save &Finish
+### Step 7: Select any of the user profiles. Then Click Save &Finish
 Select the user profiles who should have access to the app, then click Save & Finish to complete setup.
 
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 20 39" src="https://github.com/user-attachments/assets/6cbf3636-ef4a-4e87-a696-8498dc38c8be" />
 
 
  
-### Step 9: A new app will be created and displayed
+### Step 8: A new app will be created and displayed
 Your new app, Search Service, is now created and will appear in the App Launcher for users to access.
 
 <img width="1280" alt="Screen Shot 1947-03-01 at 20 34 42" src="https://github.com/user-attachments/assets/d07d19dd-988a-4561-a971-61236953ee9e" />
